@@ -31,39 +31,16 @@ The EDA process consists of two major types of analysis:
 
 ## Technologies Used
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **Jupyter Notebook**
+- **Google Colab**
 - **Data Visualization Libraries**
 
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/hotel-booking-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd hotel-booking-analysis
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebook and run the analysis:
-   ```bash
-   jupyter notebook
-   ```
 
 ## Future Enhancements
 - Implement machine learning models to predict cancellations.
 - Conduct sentiment analysis on customer reviews.
 - Build an interactive dashboard for real-time insights.
 
-## Contributing
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
-## License
-This project is licensed under the MIT License.
-
----
 
 For any questions, feel free to reach out!
 
